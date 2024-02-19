@@ -36,3 +36,11 @@
     transform: rotate(360deg);
   }
 }
+
+.panel-body {
+  margin: 0 200px;
+}
+
+.cost-title {
+  font-weight: italic;
+}
