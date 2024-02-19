@@ -5,7 +5,7 @@ import Container from 'react-bootstrap/Container';
 import { NavLink } from 'react-router-dom';
 import { Link } from 'react-router-dom';
 
-import IssueView from '../scene/issues';
+import IssueView from '../scene/Issues';
 
 class Header extends React.Component {
   constructor(props) {

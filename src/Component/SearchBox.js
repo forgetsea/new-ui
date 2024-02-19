@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { Form, Button, FormControl, Row, Col } from 'react-bootstrap';
-import * as IssueServices from '../utils/util';
+import * as IssueServices from '../utils/Util';
 
 function SearchBox({ updateData }) {
   const [keyword, setKeyword] = useState('');

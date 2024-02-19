@@ -1,5 +1,5 @@
 import axios from 'axios'
-import API_URL from './const'
+import API_URL from './Const'
 
 function responseHandler(response) {
   const data = response.data

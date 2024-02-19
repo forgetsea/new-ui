@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 
-import * as IssueServices from '../utils/util';
+import * as IssueServices from '../utils/Util';
 import { Form, Button, FormControl, Row, Col } from 'react-bootstrap';
 import { useNavigate } from 'react-router-dom';
 

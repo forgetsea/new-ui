@@ -1,4 +1,4 @@
-import {get, post} from './api';
+import {get, post} from './API';
 
 const dummy = [
 		{id: 1,title:"Fix Wall",description:"1st floor wall",costsum:500,

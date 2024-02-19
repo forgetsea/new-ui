@@ -2,7 +2,7 @@ import React, { useState, useEffect } from 'react';
 
 import IssueTable from '../Component/IssueTable';
 import SearchBox from '../Component/SearchBox';
-import * as IssueServices from '../utils/util';
+import * as IssueServices from '../utils/Util';
 
 function IssueView() {
   const [issueList, setIssueList] = useState([])

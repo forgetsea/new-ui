@@ -2,7 +2,7 @@ import React, { useState, useEffect } from 'react';
 import Table from 'react-bootstrap/Table';
 import Button from 'react-bootstrap/Button';
 import { Link } from 'react-router-dom';
-import * as IssueServices from '../utils/util';
+import * as IssueServices from '../utils/Util';
 
 const IssueTable = ({ issueList = [] }) => {
 

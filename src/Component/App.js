@@ -1,7 +1,7 @@
 import React from 'react';
 import Header from '../Component/Header';
 import { Route, Routes } from 'react-router-dom';
-import IssueView from '../scene/issues';
+import IssueView from '../scene/Issues';
 import CreateIssue from '../scene/CreateIssue';
 
 
